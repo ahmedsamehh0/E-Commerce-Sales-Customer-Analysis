@@ -36,17 +36,6 @@ Analyze product sales, identify top sellers, understand customer behavior, and l
 * Visualize key performance indicators and insights for stakeholders.
 * Ensure real-time access to critical sales metrics through the dashboards.
 
-  ### Sales Dashboard 📊📉
-
- ![Sales Dashborad](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/411b5d8a-8553-4e5b-bb01-e20f7b025665)
-
-### Customer and Products Dashboard 📊📉
-
-![Customer and Products](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/7b62b174-08ca-467d-96cd-248f3d5ca8e5)
-
-### Insights 📋
-![Insights](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/b483b049-bbc0-45a3-b1b0-fc7e4ee83644)
-
 
 ### presentation 📋
 https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/a4b0aa0d-de1d-4f76-815c-d113f7e19ddc
