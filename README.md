@@ -37,8 +37,5 @@ Analyze product sales, identify top sellers, understand customer behavior, and l
 * Ensure real-time access to critical sales metrics through the dashboards.
 
 
-### presentation 📋
-https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/a4b0aa0d-de1d-4f76-815c-d113f7e19ddc
-
 
 
